@@ -1,3 +1,5 @@
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=ramrodo.ramrodo)
+
 ### Hi there 👋
 
 I'm Rodo, a Linux Lover and a Software Developer.

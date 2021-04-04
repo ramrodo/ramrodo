@@ -2,7 +2,7 @@
 
 I'm Rodolfo Martínez, a Linux Lover and a Software Developer.
 
-- 🌱 I’m currently learning: Kubernetes, Golang, and AI/ML with Python
+- 🌱 I’m currently learning: Kubernetes, Go, and AI/ML with Python
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love juggling
 

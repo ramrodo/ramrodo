@@ -28,5 +28,5 @@ I'm Rodo, a Linux Lover and a Software Developer.
 </a>
 
 <a href="https://github.com/ramrodo/ramrodo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ramrodo&hide=stars&show_icons=true&count_private=true&line_height=27&theme=gotham" alt="GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ramrodo&hide=stars&show_icons=true&count_private=true&theme=gotham&custom_title=Github Stats" alt="Ramrodo's GitHub Stats" />
 </a>

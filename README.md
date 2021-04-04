@@ -33,4 +33,4 @@ I'm Rodo, a Linux Lover and a Software Developer.
 
 </br>
 </br>
-<sup>_Source: [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)_</sup>
+<sup>Source: https://github.com/anuraghazra/github-readme-stats</sup>

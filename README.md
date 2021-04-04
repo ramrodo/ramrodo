@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Rodolfo Martínez, a Linux Lover and a Software Developer.
+I'm Rodo, a Linux Lover and a Software Developer.
 
 - 🌱 I’m currently learning: Kubernetes, Go, and AI/ML with Python
 - 😄 Pronouns: he/him

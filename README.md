@@ -5,9 +5,9 @@
 I'm Rodo, a Software Developer and a Linux lover
 
 - 🌱 I’m currently learning: Kubernetes, Go, and AI/ML with Python
+- 💻 OS: Manjaro
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love juggling
-- 💻 OS: Manjaro
 
 <!--
 - 👯 I’m looking to collaborate on ...

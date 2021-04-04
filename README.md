@@ -24,11 +24,11 @@ I'm Rodo, a Software Developer and a Linux lover
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/ramrodo/ramrodo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ramrodo&hide=stars&count_private=true&hide_rank=true&theme=gotham&show_icons=true&card_width=700&custom_title=Github Stats" alt="Ramrodo's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ramrodo&hide=stars&count_private=true&hide_rank=true&theme=gotham&show_icons=true&custom_title=Github Stats" alt="Ramrodo's GitHub Stats" />
 </a>
 
 <a href="https://github.com/ramrodo/ramrodo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramrodo&langs_count=8&theme=gotham&layout=compact" alt="Ramrodo's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramrodo&langs_count=8&theme=gotham&layout=compact&card_width=400" alt="Ramrodo's GitHub Stats" />
 </a>
 
 </br>

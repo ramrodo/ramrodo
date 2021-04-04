@@ -28,7 +28,7 @@ I'm Rodo, a Linux Lover and a Software Developer.
 </a>
 
 <a href="https://github.com/ramrodo/ramrodo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ramrodo&hide=stars&include_all_commits=true&count_private=true&theme=gotham&show_icons=true&custom_title=Github Stats" alt="Ramrodo's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ramrodo&hide=stars&include_all_commits=true&count_private=true&hide_rank=true&theme=gotham&show_icons=true&custom_title=Github Stats" alt="Ramrodo's GitHub Stats" />
 </a>
 
 </br>

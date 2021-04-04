@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-I'm Rodo, a Linux Lover and a Software Developer.
+I'm Rodo, a Software Developer and a Linux lover
 
 - 🌱 I’m currently learning: Kubernetes, Go, and AI/ML with Python
 - 😄 Pronouns: he/him

@@ -30,7 +30,7 @@ I'm Rodo, a Software Developer and a Linux lover
 </a>
 
 <a href="https://github.com/ramrodo/ramrodo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ramrodo&langs_count=8&theme=gotham&layout=compact&card_width=400" alt="Ramrodo's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ramrodo" alt="Ramrodo's GitHub Stats" />
 </a>
 
 </br>

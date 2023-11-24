@@ -26,10 +26,6 @@ I'm Rodo, a Software Developer and a Linux lover
 ### &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/ramrodo/ramrodo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ramrodo&hide=stars&count_private=true&hide_rank=true&theme=gotham&show_icons=true&custom_title=Github Stats" alt="Ramrodo's GitHub Stats" />
-</a>
-
-<a href="https://github.com/ramrodo/ramrodo">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ramrodo" alt="Ramrodo's GitHub Stats" />
 </a>
 

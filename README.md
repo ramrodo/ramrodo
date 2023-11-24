@@ -20,13 +20,13 @@ I'm Rodo, a Software Developer and a Linux lover
 
 ### 🧑‍💻  This week, I spent my time on:
 
-[![ramrodo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ramrodo&theme=gotham)](https://github.com/ramrodo/ramrodo)
+[![ramrodo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ramrodo&theme=gotham&langs_count=5)](https://github.com/ramrodo/ramrodo)
 
 
 ### &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/ramrodo/ramrodo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ramrodo" alt="Ramrodo's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ramrodo&theme=gotham" alt="Ramrodo's GitHub Stats" />
 </a>
 
 </br>
